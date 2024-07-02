@@ -33,7 +33,7 @@
     </table>
   </div>
 
-  <h3 align="left">Frameworks and main Libraries for Python3</h3>
+  <h3 align="left">Frameworks and main Libraries for Python3:</h3>
   <div style="overflow-x: auto; white-space: nowrap;">
     <table style="display: inline-block; border-collapse: separate; border-spacing: 10px 0;">
       <tr>
@@ -49,7 +49,7 @@
     </table>
   </div>
 
-  <h3 align="left">My Tools for Data Manipulation and Visualization</h3>
+  <h3 align="left">My Tools for Data Manipulation and Visualization:</h3>
   <div style="overflow-x: auto; white-space: nowrap;">
     <table style="display: inline-block; border-collapse: separate; border-spacing: 10px 0;">
       <tr>
