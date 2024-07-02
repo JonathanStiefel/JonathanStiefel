@@ -21,8 +21,10 @@
 ###
 
 <div align="left">
+  <p>Python</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <p>JavaScript</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
@@ -33,18 +35,21 @@
 ###
 
 <div align="left">
+  <p>NumPy</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
+  <p>Pandas</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
 
-<h3 align="left">My Tools for Data Manipulation and Visulization</h3>
+<h3 align="left">My Tools for Data Manipulation and Visualization</h3>
 
 ###
 
 <div align="left">
+  <p>MySQL</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
