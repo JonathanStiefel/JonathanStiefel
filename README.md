@@ -19,20 +19,14 @@
 <div style="clear: both;">
   <h3 align="left">Languages:</h3>
   <div style="overflow-x: auto; white-space: nowrap;">
-    <table style="display: inline-block; margin-right: 20px; border-collapse: separate; border-spacing: 10px 0;">
+    <table style="display: inline-block; border-collapse: separate; border-spacing: 10px 0;">
       <tr>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <td align="center" style="text-align: center;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-        </td>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
           <p>Python</p>
         </td>
-      </tr>
-      <tr>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <td align="center" style="text-align: center;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-        </td>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
           <p>JavaScript</p>
         </td>
       </tr>
@@ -41,20 +35,14 @@
 
   <h3 align="left">Frameworks and main Libraries for Python3</h3>
   <div style="overflow-x: auto; white-space: nowrap;">
-    <table style="display: inline-block; margin-right: 20px; border-collapse: separate; border-spacing: 10px 0;">
+    <table style="display: inline-block; border-collapse: separate; border-spacing: 10px 0;">
       <tr>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <td align="center" style="text-align: center;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-        </td>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
           <p>NumPy</p>
         </td>
-      </tr>
-      <tr>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <td align="center" style="text-align: center;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-        </td>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
           <p>Pandas</p>
         </td>
       </tr>
@@ -65,10 +53,8 @@
   <div style="overflow-x: auto; white-space: nowrap;">
     <table style="display: inline-block; border-collapse: separate; border-spacing: 10px 0;">
       <tr>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <td align="center" style="text-align: center;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-        </td>
-        <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
           <p>MySQL</p>
         </td>
       </tr>
