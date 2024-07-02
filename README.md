@@ -18,43 +18,53 @@
 
 <div style="clear: both;">
   <h3 align="left">Languages:</h3>
-  <table style="float: left; margin-right: 20px;">
+  <table align="left" style="margin-bottom: 20px; border-collapse: collapse;">
     <tr>
-      <td align="center">
-        <p>Python</p>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+      </td>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <p>Python</p>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <p>JavaScript</p>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+      </td>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <p>JavaScript</p>
       </td>
     </tr>
   </table>
 
   <h3 align="left">Frameworks and main Libraries for Python3</h3>
-  <table style="float: left; margin-right: 20px;">
+  <table align="left" style="margin-bottom: 20px; border-collapse: collapse;">
     <tr>
-      <td align="center">
-        <p>NumPy</p>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+      </td>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <p>NumPy</p>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <p>Pandas</p>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+      </td>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <p>Pandas</p>
       </td>
     </tr>
   </table>
 
   <h3 align="left">My Tools for Data Manipulation and Visualization</h3>
-  <table style="float: left;">
+  <table align="left" style="border-collapse: collapse;">
     <tr>
-      <td align="center">
-        <p>MySQL</p>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+      </td>
+      <td align="center" style="width: 100px; height: 100px; border: 1px solid #ddd;">
+        <p>MySQL</p>
       </td>
     </tr>
   </table>
