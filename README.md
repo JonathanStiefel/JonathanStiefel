@@ -20,12 +20,23 @@
 
 ###
 
-<div align="left">
-  <p>Python</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <p>JavaScript</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="text-align: center;">
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <p>Python</p>
+    </div>
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+    </div>
+  </div>
+  <div style="text-align: center;">
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <p>JavaScript</p>
+    </div>
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+    </div>
+  </div>
 </div>
 
 ###
@@ -34,12 +45,23 @@
 
 ###
 
-<div align="left">
-  <p>NumPy</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <p>Pandas</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="text-align: center;">
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <p>NumPy</p>
+    </div>
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+    </div>
+  </div>
+  <div style="text-align: center;">
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <p>Pandas</p>
+    </div>
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+    </div>
+  </div>
 </div>
 
 ###
@@ -48,17 +70,23 @@
 
 ###
 
-<div align="left">
-  <p>MySQL</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="text-align: center;">
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <p>MySQL</p>
+    </div>
+    <div style="border: 1px solid #ddd; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+    </div>
+  </div>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonathanStiefel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanStiefel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=JonathanStiefel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JonathanStiefel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanStiefel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=JonathanStiefel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
