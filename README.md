@@ -20,28 +20,18 @@
 
 ###
 
-<div style="display: flex; gap: 20px;">
-  <div style="text-align: center;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <p>Python</p>
-      </div>
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-      </div>
-    </div>
-  </div>
-  <div style="text-align: center;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <p>JavaScript</p>
-      </div>
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-      </div>
-    </div>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>Python</p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+    </td>
+    <td align="center">
+      <p>JavaScript</p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -49,28 +39,18 @@
 
 ###
 
-<div style="display: flex; gap: 20px;">
-  <div style="text-align: center;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <p>NumPy</p>
-      </div>
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-      </div>
-    </div>
-  </div>
-  <div style="text-align: center;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <p>Pandas</p>
-      </div>
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-      </div>
-    </div>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>NumPy</p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+    </td>
+    <td align="center">
+      <p>Pandas</p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -78,18 +58,14 @@
 
 ###
 
-<div style="display: flex; gap: 20px;">
-  <div style="text-align: center;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <p>MySQL</p>
-      </div>
-      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-      </div>
-    </div>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>MySQL</p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+    </td>
+  </tr>
+</table>
 
 ###
 
