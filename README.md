@@ -20,7 +20,7 @@
 
 ###
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <p>Python</p>
@@ -39,7 +39,7 @@
 
 ###
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <p>NumPy</p>
@@ -58,7 +58,7 @@
 
 ###
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <p>MySQL</p>
