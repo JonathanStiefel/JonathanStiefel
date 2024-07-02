@@ -20,21 +20,25 @@
 
 ###
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 20px;">
   <div style="text-align: center;">
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <p>Python</p>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <p>Python</p>
+      </div>
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+      </div>
     </div>
   </div>
   <div style="text-align: center;">
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <p>JavaScript</p>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <p>JavaScript</p>
+      </div>
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+      </div>
     </div>
   </div>
 </div>
@@ -45,21 +49,25 @@
 
 ###
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 20px;">
   <div style="text-align: center;">
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <p>NumPy</p>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <p>NumPy</p>
+      </div>
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+      </div>
     </div>
   </div>
   <div style="text-align: center;">
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <p>Pandas</p>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <p>Pandas</p>
+      </div>
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+      </div>
     </div>
   </div>
 </div>
@@ -70,13 +78,15 @@
 
 ###
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 20px;">
   <div style="text-align: center;">
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <p>MySQL</p>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <p>MySQL</p>
+      </div>
+      <div style="border: 1px solid #ddd; padding: 10px; width: 100px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+      </div>
     </div>
   </div>
 </div>
