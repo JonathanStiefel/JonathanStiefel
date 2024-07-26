@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm a passionate data scientist with a knack for predictive analytics. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.<br><br> During my leisure time, you'll find me honing my problem-solving skills on LeetCode and playing chess.</p>
+<p align="left">I'm a passionate engineer and data analyst with a knack for predictive analytics. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.<br><br> During my leisure time, you'll find me honing my problem-solving skills on LeetCode, working on Kaggle competitions, and playing chess.</p>
 
 ###
 
